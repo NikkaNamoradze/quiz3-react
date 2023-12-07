@@ -1,3 +1,8 @@
+
+<img width="1512" alt="Screenshot 2023-12-07 at 12 36 23" src="https://github.com/NikkaNamoradze/quiz3-react/assets/107554272/9e734268-8a35-4aad-b14c-bcb3e61cc225">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
