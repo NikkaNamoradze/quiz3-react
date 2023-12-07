@@ -1,5 +1,6 @@
 
-<img width="1512" alt="Screenshot 2023-12-07 at 12 36 23" src="https://github.com/NikkaNamoradze/quiz3-react/assets/107554272/9e734268-8a35-4aad-b14c-bcb3e61cc225">
+<img width="1501" alt="Screenshot 2023-12-07 at 12 44 06" src="https://github.com/NikkaNamoradze/quiz3-react/assets/107554272/61fbc92c-42d4-485e-ac8f-55818f5ae6be">
+
 
 
 
