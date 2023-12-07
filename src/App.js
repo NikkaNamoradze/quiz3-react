@@ -64,10 +64,9 @@ const PhotoTitle = styled.p`
 `;
 
 const PhotoImage = styled.img`
-  width: calc(100% - 20px); /* Consider 2x1.5% margin and 2x1px border */
+  width: calc(100% - 5px);
   height: 150px;
   object-fit: cover;
-  margin: 5px; /* Adjust to half of the margin to maintain the space between images */
   border: 1px solid #ccc;
-  border-radius: 6px;
+  border-radius: px;
 `;
